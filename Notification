@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "title": "تنبيه جديد",
-  "message": "aaa",
+  "title": "halo",
+  "message": "hi suer",
   "style": "inbox",
 "lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
   "sound": true,
@@ -11,7 +11,7 @@
   "actions": [
     {
       "title": "فتح",
-      "url": "https://example.com"
+      "url": ""
     },
     {
       "title": "تجاهل"
